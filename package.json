@@ -1,0 +1,10 @@
+{
+  "name": "LiveLinkFaceJS",
+  "version": "0.1.0",
+  "description": "Node.js library for sending and receiving LiveLinkFace data",
+  "main": "js/livelinkface.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node -e \"console.log('no tests')\""
+  }
+}
